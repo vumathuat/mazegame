@@ -14,7 +14,7 @@
   }
 
 body {
-    background: url('../../assets/wall.png');
+    background: url('../../assets/wood.png');
 }
 
 .menu-card {
@@ -41,15 +41,12 @@ h1 {
     text-align: center;
 }
 
-button {
-    font: 1em "Press start 2P";
-    background-color: grey;
-    width: 400px;
-    height: 50px;
-    
+.again {
+    padding-top:50px;
 }
 
-.saw {
-    width: 150px;
-    height: 150px;
+.fish {
+    padding-left: 20px;
+    width: 180px;
+    height: 100px;
 }

@@ -1,24 +1,18 @@
-import React from 'react';
-import './style.scss';
-import chainsawImg from '../../assets/chainsaw.png'
+import React from "react";
+import "./style.scss";
 
 const Menu = (props) => {
-    const startGame = () => { 
-        props.gameFunctions.isStartClicked();
-    }
+  const startGame = () => {
+    props.gameFunctions.isStartClicked();
+  };
 
-
-
-    return <>
-    <div className="menu-card">
-        <div className="container">
-            <h1>I want to play a game</h1>
-            <img className="saw" src={chainsawImg} alt="chainsaw doll"/>
-        </div>
+  return (
+    <>
+      <div className="menu-card">
         <button onClick={startGame}>START GAME</button>
-    </div>
+      </div>
     </>
-
-}
+  );
+};
 
 export default Menu;

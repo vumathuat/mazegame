@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.scss'
-import chainsawImg from '../../assets/chainsaw.png'
-import soundApplause from '../../sound/applause.mp3'
+import fish from '../../assets/fish.png'
+import soundWinning from '../../sound/winningsound.mp3'
 
 const Winner = (props) => {
     const startGame = () => { 
@@ -11,13 +11,15 @@ const Winner = (props) => {
     return <>
     <div className="menu-card">
         <div className="container">
-            <h1>Winner winner chicken dinner!</h1>
-            <img className="saw" src={chainsawImg} alt="chainsaw doll"/>
+            <h1>Winner winner</h1>
+            <img className="fish" src={fish} alt="fish logo"/>
         </div>
-        <button onClick={startGame}>PLAY AGAIN</button>
+        <div className="again">
+            <button onClick={startGame}>PLAY AGAIN</button>
+        </div>
     </div>
     <audio autoPlay>
-        <source src={soundApplause} type="audio/mpeg"></source>
+        <source src={soundWinning} type="audio/mpeg"></source>
     </audio>
     </>
 
