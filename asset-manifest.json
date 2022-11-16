@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mazegame/static/css/main.1ec00e63.chunk.css",
-    "main.js": "/mazegame/static/js/main.c04c6728.chunk.js",
-    "main.js.map": "/mazegame/static/js/main.c04c6728.chunk.js.map",
-    "runtime-main.js": "/mazegame/static/js/runtime-main.1c32eff1.js",
-    "runtime-main.js.map": "/mazegame/static/js/runtime-main.1c32eff1.js.map",
-    "static/js/2.532058c9.chunk.js": "/mazegame/static/js/2.532058c9.chunk.js",
-    "static/js/2.532058c9.chunk.js.map": "/mazegame/static/js/2.532058c9.chunk.js.map",
+    "main.css": "/mazegame/static/css/main.64cf087a.chunk.css",
+    "main.js": "/mazegame/static/js/main.20f985e6.chunk.js",
+    "main.js.map": "/mazegame/static/js/main.20f985e6.chunk.js.map",
+    "runtime-main.js": "/mazegame/static/js/runtime-main.6e12a08a.js",
+    "runtime-main.js.map": "/mazegame/static/js/runtime-main.6e12a08a.js.map",
+    "static/js/2.f6ad54fb.chunk.js": "/mazegame/static/js/2.f6ad54fb.chunk.js",
+    "static/js/2.f6ad54fb.chunk.js.map": "/mazegame/static/js/2.f6ad54fb.chunk.js.map",
     "index.html": "/mazegame/index.html",
-    "precache-manifest.aa847cc31d23396328794bf4b2ddfc94.js": "/mazegame/precache-manifest.aa847cc31d23396328794bf4b2ddfc94.js",
+    "precache-manifest.76408f7730e284af82cce6c5e4a136f7.js": "/mazegame/precache-manifest.76408f7730e284af82cce6c5e4a136f7.js",
     "service-worker.js": "/mazegame/service-worker.js",
-    "static/css/main.1ec00e63.chunk.css.map": "/mazegame/static/css/main.1ec00e63.chunk.css.map",
-    "static/js/2.532058c9.chunk.js.LICENSE.txt": "/mazegame/static/js/2.532058c9.chunk.js.LICENSE.txt",
-    "static/media/applause.mp3": "/mazegame/static/media/applause.40786da7.mp3",
-    "static/media/laugh.mp3": "/mazegame/static/media/laugh.fa52a709.mp3",
-    "static/media/music.ogg": "/mazegame/static/media/music.118bdda2.ogg",
-    "static/media/player.png": "/mazegame/static/media/player.d6963e42.png"
+    "static/css/main.64cf087a.chunk.css.map": "/mazegame/static/css/main.64cf087a.chunk.css.map",
+    "static/js/2.f6ad54fb.chunk.js.LICENSE.txt": "/mazegame/static/js/2.f6ad54fb.chunk.js.LICENSE.txt",
+    "static/media/catmeow.mp3": "/mazegame/static/media/catmeow.55cb29db.mp3",
+    "static/media/failsound.mp3": "/mazegame/static/media/failsound.0ae1a955.mp3",
+    "static/media/winningsound.mp3": "/mazegame/static/media/winningsound.36ab92b7.mp3",
+    "static/media/style.scss": "/mazegame/static/media/wood.1e8244ea.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c32eff1.js",
-    "static/js/2.532058c9.chunk.js",
-    "static/css/main.1ec00e63.chunk.css",
-    "static/js/main.c04c6728.chunk.js"
+    "static/js/runtime-main.6e12a08a.js",
+    "static/js/2.f6ad54fb.chunk.js",
+    "static/css/main.64cf087a.chunk.css",
+    "static/js/main.20f985e6.chunk.js"
   ]
 }
